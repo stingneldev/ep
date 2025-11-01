@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    font-family: Poppins;
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 400px;
+    border-radius: 50%;
+    margin: 50px;
+}
+
+h1 > a {
+    color: white;
+    margin: 100px;
+}
+
+p {
+    margin: 100px;
+}
